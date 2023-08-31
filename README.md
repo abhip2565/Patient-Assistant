@@ -1,6 +1,6 @@
 # 🌡️ Patient Assistant 🌡️
 
-![Patient Assistant Logo](link-to-logo.png)
+
 
 [![Build Status](https://travis-ci.com/YourUsername/Patient-Assistant.svg?branch=master)](https://travis-ci.com/YourUsername/Patient-Assistant)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
