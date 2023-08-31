@@ -27,16 +27,16 @@ Patient Assistant is not just an app; it's a complete healthcare management solu
 
 <table>
   <tr>
-    <td style="padding:10px"><img src="link-to-screenshot1.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot2.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot3.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot4.png" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/e9bcfb8f-e15f-4833-979a-953c263a77f1" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/c6430631-0f3e-45b8-92d1-7f4e288bdcf6" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/1c349928-55bc-4ac1-bb9e-70dbce53ccc5" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/20e9825a-7a54-4347-aad6-778e0e27a404" width="300"></td>
   </tr>
   <tr>
-    <td style="padding:10px"><img src="link-to-screenshot5.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot6.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot7.png" width="300"></td>
-    <td style="padding:10px"><img src="link-to-screenshot8.png" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/5d833289-cec9-4644-abed-f56e043b1ed1" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/6cd95a08-dad9-4991-8996-71da991ec472" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/e7565f5a-74b2-40f9-82e8-72d822c9736d" width="300"></td>
+    <td style="padding:10px"><img src="https://github.com/abhip2565/Patient-Assistant/assets/74866247/b130d7c6-7c1a-4cad-8173-d8cda94c9819" width="300"></td>
   </tr>
 </table>
 
